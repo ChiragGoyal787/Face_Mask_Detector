@@ -1,0 +1,10 @@
+body {
+    color: rgb(11, 24, 97);
+    background-color: rgb(21, 226, 141);
+}
+
+.sidebar .sidebar-content {
+    background-color: rgb(11, 24, 97);
+    background-image: none;
+    color: rgb(21, 226, 141);
+}
