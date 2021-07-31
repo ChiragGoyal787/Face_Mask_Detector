@@ -87,7 +87,7 @@ model = tf.keras.Sequential([
 
 model.summary()
 
-LR = 1e-5 # Keep it small when transfer learning
+LR = 1e-5
 EPOCHS = 20
 BS = 256
 
