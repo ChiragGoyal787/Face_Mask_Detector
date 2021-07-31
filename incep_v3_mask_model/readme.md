@@ -1,5 +1,5 @@
 ## INCEPTION V3 MODEL
- The code file contains the training using the Inception V3 model with accuracy f around 96.67\%
+ The code file contains the training using the Inception V3 model with accuracy of around 96.67\%
  
  # Plot
  ---------------------------------------------------
